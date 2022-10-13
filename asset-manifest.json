@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/marauders-crafting-guide/static/css/main.c59cc657.css",
-    "main.js": "/marauders-crafting-guide/static/js/main.68de06f9.js",
+    "main.js": "/marauders-crafting-guide/static/js/main.817e6f78.js",
     "index.html": "/marauders-crafting-guide/index.html",
     "main.c59cc657.css.map": "/marauders-crafting-guide/static/css/main.c59cc657.css.map",
-    "main.68de06f9.js.map": "/marauders-crafting-guide/static/js/main.68de06f9.js.map"
+    "main.817e6f78.js.map": "/marauders-crafting-guide/static/js/main.817e6f78.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.68de06f9.js"
+    "static/js/main.817e6f78.js"
   ]
 }
