@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Sack Bag",
+        "requirement": "level 1",
+        "sp-cost": "1",
+        "cost":"0",
+        "recipe":
+        [
+            {
+                "name":"Junk Scrap",
+                "count":"2"
+            },
+            {
+                "name":"Synthetic Scrap",
+                "count":"1"
+            }
+        ],
+        "crafting-time":"0:15"
+    },
+    {
+        "name":"StenMK2 Suppressor",
+        "requirement": "level 1",
+        "sp-cost": "3",
+        "cost":"1,235",
+        "recipe":
+        [
+            {
+                "name":"Metal Scrap",
+                "count":"2"
+            }
+        ],
+        "crafting-time":"0:25"
+    }
+]
