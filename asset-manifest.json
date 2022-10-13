@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/marauders-crafting-guide/static/css/main.073c9b0a.css",
-    "main.js": "/marauders-crafting-guide/static/js/main.a6ac03a4.js",
-    "static/js/787.8d3ce3aa.chunk.js": "/marauders-crafting-guide/static/js/787.8d3ce3aa.chunk.js",
-    "static/media/logo.svg": "/marauders-crafting-guide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/marauders-crafting-guide/static/css/main.8a685450.css",
+    "main.js": "/marauders-crafting-guide/static/js/main.f70c4dda.js",
     "index.html": "/marauders-crafting-guide/index.html",
-    "main.073c9b0a.css.map": "/marauders-crafting-guide/static/css/main.073c9b0a.css.map",
-    "main.a6ac03a4.js.map": "/marauders-crafting-guide/static/js/main.a6ac03a4.js.map",
-    "787.8d3ce3aa.chunk.js.map": "/marauders-crafting-guide/static/js/787.8d3ce3aa.chunk.js.map"
+    "main.8a685450.css.map": "/marauders-crafting-guide/static/css/main.8a685450.css.map",
+    "main.f70c4dda.js.map": "/marauders-crafting-guide/static/js/main.f70c4dda.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a6ac03a4.js"
+    "static/css/main.8a685450.css",
+    "static/js/main.f70c4dda.js"
   ]
 }
